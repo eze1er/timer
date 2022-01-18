@@ -10,7 +10,7 @@ for (let i = 0; i < timerSound.length; i++) {
       timer += (1000 * timerSound[i]) ;
       timer += ('\n');
     } else {
-      timer += (1000 * timerSound[i]) ;
+      timer += (1100 * timerSound[i]) ;
     }
      
   }, timer);
